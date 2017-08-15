@@ -1,4 +1,4 @@
 Bridge
 ======
 
-All to do with duplicate bfidge
+All to do with duplicate bridge
